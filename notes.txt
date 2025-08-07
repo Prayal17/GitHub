@@ -1,0 +1,20 @@
+cd - change Directory
+while changing directory "/" slash is used
+
+
+mkdir - to make new folder
+(make directory)
+
+ls - to check if the file/folder has been made or not
+
+touch c2.txt - empty file named "c2"
+
+
+nano c2.txt - opens nano text editor, (shell vitra ko shell)
+
+
+
+pwd - shows the current file/folder location 
+
+
+debian
